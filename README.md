@@ -126,10 +126,5 @@ UberSync improves:
 ## 📂 Contents of this Repository
 
 - PRD (Product Requirements Document)
-- Feature Specification: UberSync
 
 ---
-
-## 📌 Author
-
-Senior Product Management Case Study — Uber Rider Experience Enhancement
